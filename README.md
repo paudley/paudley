@@ -6,7 +6,6 @@ I've led several high-throughput systems into the cloud, like a social networkin
 
 Based in Vancouver, I'm deeply involved in the local startup and development communities. I love nurturing new talent and steering companies through their most adventurous times. If you have a compelling idea or just want to chat over a cup of coffee, I'm all ears and ready to dive into a conversation on just about any topic. Let's connect and explore what we can create together!
 
-![paudley's Stats](https://github-readme-stats.vercel.app/api?username=paudley&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 

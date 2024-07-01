@@ -14,7 +14,7 @@ Based in Vancouver, I'm deeply involved in the local startup and development com
 - ☕ As a coffee fiend, I not only brew but also roast my own coffee.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,c,cpp,cloudflare,d3,docker,emacs,git,go,jquery,linux,bsd,bash,lua,mysql,perl,nginx,postgres,php,js,html,css,wasm,py,r,regex,ruby,sqlite,solidity,svg,tensorflow,ubuntu,vim,vue,vuetify,wordpress,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,c,cpp,cloudflare,d3,docker,emacs,git,go,jquery,linux,bsd,bash,lua,mysql,perl,nginx,postgres,php,js,html,css,wasm,py,r,regex,rust,ruby,sqlite,solidity,svg,tensorflow,ubuntu,vim,vue,vuetify,wordpress,yarn)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

@@ -4,7 +4,7 @@ Hi there! I'm Patrick Audley, a seasoned technologist with over twenty years of 
 
 I've led several high-throughput systems into the cloud, like a social networking and marketing site that supported massive concurrent counts back in the early 2010s. I've also worked on scientific analysis pipelines for genetics and satellite imagery, as well as multi-continent deployments for high-resiliency financial applications. I'm all about achieving great results on minimal budgets, making the most of open-source and off-the-shelf solutions, and boosting development team efficiency.
 
-Based in Vancouver, I'm deeply involved in the local startup and development communities. I love nurturing new talent and steering companies through their most adventurous times. If you have a compelling idea or just want to chat over a cup of coffee, I'm all ears and ready to dive into a conversation on just about any topic. Let's connect and explore what we can create together!
+Based in the mighty town of Spruce Grove, Alberta, I'm deeply involved in the national startup and development communities. I love nurturing new talent and steering companies through their most adventurous times. If you have a compelling idea or just want to chat over a cup of coffee, I'm all ears and ready to dive into a conversation on just about any topic. Let's connect and explore what we can create together!
 
 
 ## 🚀 About Me

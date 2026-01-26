@@ -12,6 +12,7 @@ Based in the mighty town of Spruce Grove, Alberta, I'm deeply involved in the na
 - 🔭 I'm currently working with groups to flesh out there AI and large data strategies in the face of ... whatever this current tech curve is.
 - 📝 I often tinker with and restore old UNIX systems.
 - ☕ As a coffee fiend, I not only brew but also roast my own coffee.
+- 🐈 I [heard cats](https://www.youtube.com/watch?v=m_MaJDK3VNE) (server fleets, jr. devs, agent crowds, actual cats) and mostly enjoy it. 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,c,cpp,cloudflare,d3,docker,emacs,git,go,jquery,linux,bsd,bash,lua,mysql,perl,nginx,postgres,php,js,html,css,wasm,py,r,regex,rust,ruby,sqlite,solidity,svg,tensorflow,ubuntu,vim,vue,vuetify,wordpress,yarn)](https://skillicons.dev)

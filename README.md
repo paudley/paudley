@@ -15,7 +15,7 @@ Based in the mighty town of Spruce Grove, Alberta, I'm deeply involved in the na
 - 🐈 I [heard cats](https://www.youtube.com/watch?v=m_MaJDK3VNE) (server fleets, jr. devs, agent crowds, actual cats) and mostly enjoy it. 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,c,cpp,cloudflare,d3,docker,emacs,git,go,jquery,linux,bsd,bash,lua,mysql,perl,nginx,postgres,php,js,html,css,wasm,py,r,regex,rust,ruby,sqlite,solidity,svg,tensorflow,ubuntu,vim,vue,vuetify,wordpress,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,arch,gcp,c,cpp,cloudflare,d3,docker,emacs,git,github,githubactions,go,jquery,linux,bsd,bash,latex,lua,mysql,perl,nginx,postgres,php,js,html,htmx,css,wasm,py,r,regex,rust,ruby,sqlite,solidity,svg,tensorflow,ubuntu,vim,vue,vuetify,wordpress,yarn)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 

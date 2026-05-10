@@ -1,54 +1,49 @@
 # Hi, I'm Patrick Audley! 👋
 
-Hi there! I'm Patrick Audley, a seasoned technologist with over twenty years of international startup experience under my belt. My journey through the tech world has been colored by a rich blend of scientific, business, and computing skills. I've played a pivotal role in various tech launches, acquisitions, pivots, and exits across a spectrum of fields including telephony, high-performance computing, crowdsourcing, bioinformatics, and security.
+I'm a seasoned technologist with more than thirty years of international startup experience and a broad palette of scientific, business, and computing skills. I work the long boundary between deep technical research and pragmatic commercial execution — whichever side a problem needs.
 
-I've led several high-throughput systems into the cloud, like a social networking and marketing site that supported massive concurrent counts back in the early 2010s. I've also worked on scientific analysis pipelines for genetics and satellite imagery, as well as multi-continent deployments for high-resiliency financial applications. I'm all about achieving great results on minimal budgets, making the most of open-source and off-the-shelf solutions, and boosting development team efficiency.
+I've been writing code since I was six (Terrapin Logo, 1983), ran my first commercial BBS in grade 7, and took over as sysadmin at a local ISP at fifteen — my first startup. Since then I've been instrumental to numerous tech launches, acquisitions, pivots, and exits across telephony, high-performance computing, crowdsourcing, bioinformatics, and security — over twenty-five startup launches across the years.
 
-Based in the mighty town of Spruce Grove, Alberta, I'm deeply involved in the national startup and development communities. I love nurturing new talent and steering companies through their most adventurous times. If you have a compelling idea or just want to chat over a cup of coffee, I'm all ears and ready to dive into a conversation on just about any topic. Let's connect and explore what we can create together!
+I split my time between [Blackcat Informatics® Inc.](https://blackcatinformatics.ca) — the consultancy I've run since 1994 — and applied research at the intersection of TDA, manifold learning, and large-language-model semantics. The through-line has been the same: find elegant solutions to complex technical problems, exploit problem isomorphisms, and ship code that does what it says on the tin.
 
+Based in the mighty town of Spruce Grove, Alberta, I'm an active member of the Vancouver and Alberta startup and development communities and enjoy fostering new talent. Dangle a good problem in front of me, tempt me with a cup of coffee, and I'll yak your ear off on just about any topic.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working with groups to flesh out there AI and large data strategies in the face of ... whatever this current tech curve is.
+- 🔭 Helping organisations shape their AI and large-data strategies through the current technology inflection — not the buzzword version, the version where you have to actually decide what to build, what to wait on, and what to ignore.
+- 🧪 Researching emergent semantic-graph relations in high-order semantic vector spaces — hyper-dimensional topological analysis applied to high-dimensional embeddings to surface structure that isn't explicit in the source corpus.
 - 📝 I often tinker with and restore old UNIX systems.
 - ☕ As a coffee fiend, I not only brew but also roast my own coffee.
-- 🐈 I [heard cats](https://www.youtube.com/watch?v=m_MaJDK3VNE) (server fleets, jr. devs, agent crowds, actual cats) and mostly enjoy it. 
+- 🐈 I [herd cats](https://www.youtube.com/watch?v=m_MaJDK3VNE) (server fleets, jr. devs, agent crowds, actual cats) and mostly enjoy it.
 
 ## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=aws,arch,gcp,c,cpp,cloudflare,d3,docker,emacs,git,github,githubactions,go,jquery,linux,bsd,bash,latex,lua,mysql,perl,nginx,postgres,php,js,html,htmx,css,wasm,py,r,regex,rust,ruby,sqlite,solidity,svg,tensorflow,ubuntu,vim,vue,vuetify,wordpress,yarn)](https://skillicons.dev)
+
+## 🛠️ Selected Projects
+
+- **[coding-ethos](https://github.com/paudley/coding-ethos)** — policy-as-code for AI coding agents. MCP server, CEL policies, git hooks, SARIF, and the static-analysis guardrails to keep agents from shipping code that violates your team's standards.
+- **[nonlinear-semantic-graphs](https://github.com/paudley/nonlinear-semantic-graphs)** — research applying TDA, manifold learning, and spectral methods to high-dimensional semantic vector spaces.
+- **[e](https://github.com/paudley/e)** — a structured-error library for Go.
+- **[lru_cache](https://github.com/paudley/lru_cache)** — a fast C++ LRU cache template, first written in 2004 and still useful.
 
 ## 🌱 Currently Exploring
 
-- 🚀 Noodling on higher dimensional math problems.
-  - Trying to keep up with the rapidly evolving world of ML where papers and github repos spew forth at an astounding rate.
-  - Sharpening my coding skills and picking up new (and old!) languages - the more the merrier!
-  - Deepening my love for all things Postgresql.
+- 🚀 Noodling on higher-dimensional math problems applied to LLM embeddings.
+- Keeping up with the rapidly evolving world of ML, where papers and GitHub repos spew forth at an astounding rate.
+- Sharpening my coding skills and picking up new (and old!) languages — the more the merrier.
+- Deepening my love for all things PostgreSQL.
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
-- 🌟 Been involved with over 25 startup launches in 25 years.
-
+- 🌟 Involved with over twenty-five startup launches across more than thirty years.
+- 📚 Coding since 1983 (Terrapin Logo, age 6); first commercial BBS in grade 7; first startup at fifteen.
 
 ## 📬 Get in Touch
 
-- Connect with me via email [paudley@blackcat.ca](mailto:paudley@blackcat.ca)
-- Read my bio on [patrickaudley.com](https://patrickaudley.com)
+- Email me at [paudley@blackcat.ca](mailto:paudley@blackcat.ca)
+- For consulting work: [work.with.us@blackcatinformatics.ca](mailto:work.with.us@blackcatinformatics.ca)
+- Read my bio at [patrickaudley.com](https://patrickaudley.com)
+- Company: [blackcatinformatics.ca](https://blackcatinformatics.ca)
 
 Thanks for stopping by! Let's connect and solve something interesting together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-

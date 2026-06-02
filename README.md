@@ -45,5 +45,6 @@ Based in the mighty town of Spruce Grove, Alberta, I'm an active member of the V
 - For consulting work: [work.with.us@blackcatinformatics.ca](mailto:work.with.us@blackcatinformatics.ca)
 - Read my bio at [patrickaudley.com](https://patrickaudley.com)
 - Company: [blackcatinformatics.ca](https://blackcatinformatics.ca)
+- For enterprise architecture or cross-border AI compliance inquiries, reach out on WeChat: paudley_heimao.
 
 Thanks for stopping by! Let's connect and solve something interesting together. 🚀

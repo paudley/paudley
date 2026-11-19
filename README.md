@@ -22,9 +22,10 @@ Based in the mighty town of Spruce Grove, Alberta, I'm an active member of the V
 
 ## 🛠️ Selected Projects
 
-- **[coding-ethos](https://github.com/paudley/coding-ethos)** — policy-as-code for AI coding agents. MCP server, CEL policies, git hooks, SARIF, and the static-analysis guardrails to keep agents from shipping code that violates your team's standards.
+- **[PurRDF](https://github.com/Blackcat-Informatics/purrdf)** — a Rust knowledge-graph toolkit combining RDF 1.2, SPARQL, validation, reasoning, retrieval, and graph transport, with Python, JavaScript/WebAssembly, and C bindings.
+- **[GMEOW](https://github.com/Blackcat-Informatics/gmeow-ontology)** — an ontology engine for grounded agent memory, representing knowledge as attributed, revisable claims with evidence, provenance, and inspectable reasoning.
+- **[rust-agentic-foundations](https://github.com/Blackcat-Informatics/rust-agentic-foundations)** — Rust development tools for humans and coding agents that detect duplicated helpers and keep specifications, documentation, code, and tests aligned.
 - **[nonlinear-semantic-graphs](https://github.com/paudley/nonlinear-semantic-graphs)** — research applying TDA, manifold learning, and spectral methods to high-dimensional semantic vector spaces.
-- **[e](https://github.com/paudley/e)** — a structured-error library for Go.
 - **[lru_cache](https://github.com/paudley/lru_cache)** — a fast C++ LRU cache template, first written in 2004 and still useful.
 
 ## 🌱 Currently Exploring
